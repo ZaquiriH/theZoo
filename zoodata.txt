@@ -1,0 +1,11 @@
+0000001 Tick-Tock        Oviparous        Crocodile        2 0
+0000002 Fidget           Mammal           Bat              0 1
+0000003 Willy            Mammal           Whale            0 0
+0000004 Bailey           Mammal           Whale            0 1
+0000005 Goose Lee        Oviparous        Goose            0 0
+0000006 Honker           Oviparous        Goose            1 0
+0000007 Becky            Oviparous        Pelican          1 0
+0000008 Nigel            Oviparous        Pelican          0 0
+0000009 Fluke            Mammal           SeaLion          0 0
+0000010 Rudder           Mammal           SeaLion          0 1
+0000011 Bartok           Mammal           Bat              0 1
